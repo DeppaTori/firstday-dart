@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="792c4ae0-99d4-46b2-a6ec-d192621e1783" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Classes.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic2.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic3.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metadata.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignmentnull.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional-exp.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,20 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Classes.dart">
+        <entry file="file://$PROJECT_DIR$/conditional-exp.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -79,6 +67,10 @@
         <option value="$PROJECT_DIR$/Todo.dart" />
         <option value="$PROJECT_DIR$/Metadata.dart" />
         <option value="$PROJECT_DIR$/Classes.dart" />
+        <option value="$PROJECT_DIR$/Operator.dart" />
+        <option value="$PROJECT_DIR$/Assignmentnull.dart" />
+        <option value="$PROJECT_DIR$/bitwise-shift-operator.dart" />
+        <option value="$PROJECT_DIR$/conditional-exp.dart" />
       </list>
     </option>
   </component>
@@ -105,11 +97,6 @@
               <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
               <item name="day-one" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day-one" type="462c0819:PsiDirectoryNode" />
-              <item name="asynchronous" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -117,7 +104,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581389927411" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581498686683" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -141,8 +128,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Classes.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Classes.dart" />
+    <configuration name="conditional-exp.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/conditional-exp.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -162,7 +149,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30040485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -173,7 +159,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43516874" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39786857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -378,10 +364,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assignmentnull.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operator.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Classes.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditional-exp.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
